@@ -119,7 +119,7 @@ pre {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 769px) {
   .editor-output-container {
     flex-direction: column;
   }
